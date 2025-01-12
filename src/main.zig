@@ -93,7 +93,7 @@ pub fn main() !void {
                     std.debug.print("\x1b[0;30m{} \x1b[0;m", .{elem});
                 },
                 else => {
-                    std.debug.print("\x1b[0;m{} \x1b[0;m", .{elem});
+                    std.debug.print("{} ", .{elem});
                 },
             }
         }

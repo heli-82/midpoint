@@ -1,1 +1,2 @@
-# Just a simple Midpoint Circle Algorithm
+# Midpoint
+### Just a simple Midpoint Circle Algorithm implementation
